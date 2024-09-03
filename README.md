@@ -1,2 +1,2 @@
 # Smart-Door-Lock-System-for-Home-Automation-
-This is first repository
+This is a IOT based project 
